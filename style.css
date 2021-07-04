@@ -10,9 +10,6 @@ body {
   background-color: black;
   color: white;
   font-family: lato;
-  background-image: url("background.jpg");
-  background-size: cover;
-  backdrop-filter: blur(2rem);
 }
 .movieboard {
   height: 40%;
